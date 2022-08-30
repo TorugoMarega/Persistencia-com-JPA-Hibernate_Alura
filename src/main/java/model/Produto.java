@@ -2,9 +2,7 @@ package model;
 
 import javax.persistence.*;
 import java.math.BigDecimal;
-import java.math.BigInteger;
 import java.time.LocalDate;
-import java.time.LocalDateTime;
 
 //MAPEANDO UMA TABELA DO BANCO DE DADOS COM JPA
 @Entity
